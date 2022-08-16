@@ -2,7 +2,7 @@
 
 
 This app is based on javascript DOM manipulations. 
-🐣 Come on, make your own music! 🐣
+🐣 Come on, make your own music! 🐣 <br>
 <b>Live:</b> https://erentasci-drumkit.vercel.app/
 ### Tech stack
 ```
