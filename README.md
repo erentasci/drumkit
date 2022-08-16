@@ -8,6 +8,5 @@ This app is based on javascript DOM manipulations.
 ```
 - Html, Css, Javascript
 - Javascript DOM
-
 ```
 ## Preview
