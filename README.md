@@ -10,3 +10,4 @@ This app is based on javascript DOM manipulations.
 - Javascript DOM
 ```
 ## Preview
+  <img src="/drumkit-game.png" height="500" style="border-radius:10px;margin-bottom:1rem;" />
